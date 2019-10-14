@@ -1,6 +1,7 @@
-# soccer-prediction
-
+# Soccer Prediction
 A big data analysis to provide forecasts on soccer matches :-)
+
+![The Big Data Theory: Soccer Prediction](.img.jpg)
 
 ## Installation
 
